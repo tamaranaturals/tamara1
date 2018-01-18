@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Tamara",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -471,7 +471,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Feedback",
+          "title": "'tamara' Feedback",
           "subtitle": "Shape our future projects with your constructive feedback.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
           "form": {
@@ -537,7 +537,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Your Orders",
+          "title": "'tamara' Orders",
           "subtitle": "All orders are Cash On Delivery",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Place Order</a>",
           "form": {
