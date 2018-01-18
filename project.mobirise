@@ -1,0 +1,584 @@
+{
+  "settings": {
+    "name": "Tamara",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#4e4949",
+        "#888c58",
+        "#2e2e2e",
+        "#71af83",
+        "#6e1c1b",
+        "#6c1b1a",
+        "#534623"
+      ]
+    },
+    "versionFirst": "4.3.4",
+    "uniqCompNum": 24,
+    "versionPublish": "4.3.4",
+    "favicon": "@PROJECT_PATH@/assets/images/logofinal-128x73-1.png",
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/sandeepsagar-1201x800.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.2"
+          },
+          "title": "Goodbye to odours!",
+          "text": "solving car odours, refrigerator odours &amp; shoe rack odours<br>100% organic!<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">know more</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-0",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#888c58"
+          },
+          "title": "Introducing 'tamara'",
+          "meta": "'tamara' uses high quality air purifying grade Activated Charcoal to help you manage odours in your car, refrigerator and closed encloses like cupboards, shoe racks etc.<br>The room fresheners that we use today emit nice odour masking all the bad odours, so we continue to inhale all the bad odours but with a good smell. They don't help us with not inhaling the various gases that are around us.<br>Deviating from the concept of masking the odours, 'tamara' adsorbs (yes,'adsorbs') odours on to its high porous surface area leaving the area free from odours. This way it reduces the various gases that get into your body through inhalation.&nbsp;<br><br>You are just a call or text away to get closer to pure living!<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#888c58"
+          },
+          "text1": "<p>'tamara' uses high quality air purifying grade Activated Carbon to help you manage odours in your car, refrigerator and closed encloses like cupboards, shoe racks etc.</p>",
+          "text2": "<p>The fresheners that we use today emit nice odour masking all the bad odours, so we continue to inhale the bad odours but with a good smell. They don't help us with not inhaling the various gases that get into our blood stream through inhalation.</p>",
+          "text3": "<p>Deviating from the concept of masking the odours, 'tamara' adsorbs (yes,'adsorbs') odours on to its high porous surface area leaving the area free from odours. This way it reduces the various gases that get into our body through inhalation.\n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-a",
+          "_styles": {
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "38",
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/packingresize1-627x640.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Directions for use",
+          "text": "1. Remove the 'tamara' bag from the sealed package.<br>2. Each bag is of size 3 inches (height) x 2 inches (width) and can be easily placed or tagged as per convenience. <br><br>It is 100% organic and lasts upto 6 months!<br><br>Each 'tamara' bag is packed in food grade air tight resealable pack so that the bag doesn't begin inhaling odours even before it can get to you. That way it remains fresh until it's open.<br>It is children safe and pet friendly. <br>It is not for internal consumption though.<br><br>When you notice that the effectiveness is reduced, place the bag in direct sunlight for about an hour or so and it will last you another period until you can get your fresh set of 'tamara' bags. <br><br>After use: The used 'tamara' bags can be cut open and the 'Activated Carbon' inside it can be put in the soil so it goes back to nature.<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Place your order</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-k",
+          "_styles": {
+            "H3": {
+              "color": "#888c58",
+              "font-size": "32px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#888c58"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Take you next step to natural living",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-m"
+        },
+        {
+          "_inherit": "testimonials2",
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/images1-300x168.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#888c58",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.5"
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title": "Here's what some of our 'tamara' users have to say",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Dharani",
+              "authorBio": "User",
+              "text": "<p>“Works like a charm! I use it in my refrigerator.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Ram Reddy",
+              "authorBio": "User",
+              "text": "<p>“It is very effective. I use it in my car, refrigerator and the dining room.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Srividya",
+              "authorBio": "User",
+              "text": "<p>“Used it in my car, refrigerator and the bath rooms. It works well, in the sense that there are no seperate odours.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_name": "testimonials4",
+          "_anchor": "testimonials4-5",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "36px"
+            },
+            ".card-footer > div": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_inherit": "pricing-table1",
+          "_styles": {
+            ".mbr-plan-header, .mbr-plan-body": {
+              "background-color": "#f4f4f4"
+            },
+            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
+              "color": "#28262b"
+            },
+            ".mbr-plan": {
+              "border-color": "#e8e8e8"
+            },
+            ".mbr-plan .list-group-item": {
+              "border-color": "#cfcfcf"
+            },
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-plan-title": {
+              "font-size": "30px"
+            },
+            ".mbr-price-figure": {
+              "font-size": "60px"
+            },
+            ".mbr-plan-price-desc": {
+              "font-size": "21px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "",
+            "secondType": "hidden",
+            "thirdType": "bg-primary",
+            "fourthType": "",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7c706b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "description1": "&nbsp;",
+          "description2": "More details",
+          "description3": "&nbsp;",
+          "description4": "+91 912-101-8712",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">GET A QUOTE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "title": "Pricing",
+          "subtitle": "Pricing table with four columns and solid color background.",
+          "title1": "Single",
+          "title2": "PACK OF 2",
+          "title3": "Standard",
+          "title4": "Community",
+          "subtitle1": "1 tamara bag",
+          "subtitle2": "Description",
+          "subtitle3": "4 tamara bags",
+          "subtitle4": "tailor your order",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "Rs.",
+          "currency2": "$",
+          "currency3": "Rs.",
+          "currency4": "",
+          "price1": "390",
+          "price2": "0",
+          "price3": "1500",
+          "price4": "CALL US",
+          "period1": "/-.",
+          "period2": "/mo.",
+          "period3": "/-.",
+          "period4": ".",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Delivery Charges Applicable</li><li class=\"list-group-item\">&nbsp;</li><li class=\"list-group-item\">&nbsp;</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">You save Rs.60/-</li><li class=\"list-group-item\">Delivery Charges Applicable</li><li class=\"list-group-item\">&nbsp;</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Place orders for a group&nbsp;</li><li class=\"list-group-item\">Cost Advantage&nbsp;</li><li class=\"list-group-item\">Delivery Free&nbsp;</li></ul>",
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-l"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Place your order</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Share your feedback</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-n",
+          "_styles": {
+            ".btn": {
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4e4949",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logofinal-128x73.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Hyderabad",
+          "text2": "<strong>Contacts</strong><br>Phone: +91 91 21 01 87 12<br><br>",
+          "text3": "<strong>Links</strong><br><a href=\"https://en.wikipedia.org/wiki/Activated_carbon\" target=\"_blank\">About Activated Carbon</a><br>Tips &amp; Suggestions<br><br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-3",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "Feedback",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Feedback",
+          "subtitle": "Shape our future projects with your constructive feedback.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "form": {
+            "action": "m.ramcharan@gmail.com",
+            "alerts": {
+              "success": "Thank you sharing your feedback. Your feedback is valuable for us. We will review and get back to you as appropriate."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-e",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Web Site Maker Description",
+        "title": "Order",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Your Orders",
+          "subtitle": "All orders are Cash On Delivery",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Place Order</a>",
+          "form": {
+            "action": "m.ramcharan@gmail.com",
+            "alerts": {
+              "success": "Thank you for placing your order. We will get back to you with the delivery logistics."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Order Quantity*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Contact Phone*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Delivery Address*"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-h",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
