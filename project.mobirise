@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.4",
-    "uniqCompNum": 24,
+    "uniqCompNum": 26,
     "versionPublish": "4.3.4",
     "favicon": "@PROJECT_PATH@/assets/images/logofinal-128x73-1.png",
     "noImageResize": "",
@@ -475,7 +475,7 @@
           "subtitle": "Shape our future projects with your constructive feedback.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
           "form": {
-            "action": "m.ramcharan@gmail.com",
+            "action": "m.ramcharan@bellnexx.com",
             "alerts": {
               "success": "Thank you sharing your feedback. Your feedback is valuable for us. We will review and get back to you as appropriate."
             },
@@ -541,7 +541,7 @@
           "subtitle": "All orders are Cash On Delivery",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Place Order</a>",
           "form": {
-            "action": "m.ramcharan@gmail.com",
+            "action": "m.ramcharan@bellnexx.com",
             "alerts": {
               "success": "Thank you for placing your order. We will get back to you with the delivery logistics."
             },
@@ -552,7 +552,7 @@
                 "customTitle": "Name*"
               },
               "email": {
-                "visible": true,
+                "visible": false,
                 "title": "Email",
                 "customTitle": "Order Quantity*"
               },
@@ -563,7 +563,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Delivery Address*"
+                "customTitle": "Order Quantity and Delivery Address*"
               }
             }
           },
