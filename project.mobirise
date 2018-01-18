@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Tamara",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -69,8 +69,8 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.2"
           },
-          "title": "Goodbye to odours!",
-          "text": "solving car odours, refrigerator odours &amp; shoe rack odours<br>100% organic!<br>",
+          "title": "Say, Goodbye to Odours The Organic Way!",
+          "text": "solving car odours, refrigerator odours &amp; shoe rack odours<br><b>100% organic!</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">know more</a> ",
           "_tags": [
             "Theme"
@@ -79,6 +79,9 @@
           "_anchor": "header1-0",
           "_styles": {
             ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
               "color": "#ffffff"
             }
           }
@@ -155,7 +158,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/packingresize1-627x640.png",
+              "src": "@PROJECT_PATH@/assets/images/image4167-1400x1373.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -173,7 +176,7 @@
             }
           },
           "title": "Directions for use",
-          "text": "1. Remove the 'tamara' bag from the sealed package.<br>2. Each bag is of size 3 inches (height) x 2 inches (width) and can be easily placed or tagged as per convenience. <br><br>It is 100% organic and lasts upto 6 months!<br><br>Each 'tamara' bag is packed in food grade air tight resealable pack so that the bag doesn't begin inhaling odours even before it can get to you. That way it remains fresh until it's open.<br>It is children safe and pet friendly. <br>It is not for internal consumption though.<br><br>When you notice that the effectiveness is reduced, place the bag in direct sunlight for about an hour or so and it will last you another period until you can get your fresh set of 'tamara' bags. <br><br>After use: The used 'tamara' bags can be cut open and the 'Activated Carbon' inside it can be put in the soil so it goes back to nature.<br><br>",
+          "text": "1. Remove the 'tamara' bag from the sealed package.<br>2. Each bag is of size 3 inches (height) x 2 inches (width) and can be easily placed or tagged as per convenience. <br><br>It lasts upto 6 months! And a little over too depending on the extent of odours it is exposed to.<br><br>Each 'tamara' bag is packed in high quality air tight resealable packing. This way, it remains fresh until it gets across to you. It is children safe and pet friendly. <br>It is not for internal consumption though.<br><br>All good things also come to an end, so when you notice that the effectiveness of the 'tamara' bag is reduced, place the bag in direct sunlight for about an hour or so and it will last you another couple of weeks until you can get your fresh set of 'tamara' bags. <br><br><i>After use<b>:</b>&nbsp;Since the content of the 'tamara' bag is 100% organic, the used 'tamara' bags can be cut open and the content inside it can be put into earth or plant soil, so it goes back to nature.</i><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Place your order</a>",
           "_tags": [
             "Theme"
@@ -202,7 +205,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Take you next step to natural living",
+          "title": "Take another organic step to wellness!",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -239,7 +242,7 @@
             {
               "authorName": "Dharani",
               "authorBio": "User",
-              "text": "<p>“Works like a charm! I use it in my refrigerator.”</p>",
+              "text": "<p>“It is very effective! I use it in my refrigerator and now whenever the door is open, no more odours! </p><p>Moreover, as the odour solution is purely organic, I am very happy!”</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
@@ -253,7 +256,7 @@
             {
               "authorName": "Ram Reddy",
               "authorBio": "User",
-              "text": "<p>“It is very effective. I use it in my car, refrigerator and the dining room.”</p>",
+              "text": "<p>“Works well. I use it in my car, refrigerator and dining area.”</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face1.jpg",
@@ -267,7 +270,7 @@
             {
               "authorName": "Srividya",
               "authorBio": "User",
-              "text": "<p>“Used it in my car, refrigerator and the bath rooms. It works well, in the sense that there are no seperate odours.”</p>",
+              "text": "<p>“Use it in my car ,refrigerator and I experience no odours now.”</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -362,7 +365,7 @@
           "subtitle1": "1 tamara bag",
           "subtitle2": "Description",
           "subtitle3": "4 tamara bags",
-          "subtitle4": "tailor your order",
+          "subtitle4": "20+ tamara bags",
           "label1": "HOT!",
           "label2": "HOT!",
           "label3": "HOT!",
@@ -382,7 +385,7 @@
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Delivery Charges Applicable</li><li class=\"list-group-item\">&nbsp;</li><li class=\"list-group-item\">&nbsp;</li></ul>",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">You save Rs.60/-</li><li class=\"list-group-item\">Delivery Charges Applicable</li><li class=\"list-group-item\">&nbsp;</li></ul>",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Place orders for a group&nbsp;</li><li class=\"list-group-item\">Cost Advantage&nbsp;</li><li class=\"list-group-item\">Delivery Free&nbsp;</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Place orders for a group&nbsp;</li><li class=\"list-group-item\">Cost Advantage</li><li class=\"list-group-item\">Delivery Free&nbsp;</li></ul>",
           "_name": "pricing-table2",
           "_anchor": "pricing-table2-l"
         },
