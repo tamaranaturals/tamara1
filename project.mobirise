@@ -476,7 +476,7 @@
           },
           "title": "'tamara' Feedback",
           "subtitle": "Shape our future projects with your constructive feedback.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send Feedback</a>",
           "form": {
             "action": "m.ramcharan@bellnexx.com",
             "alerts": {
