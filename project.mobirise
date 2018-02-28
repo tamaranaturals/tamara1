@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.4",
-    "uniqCompNum": 26,
+    "uniqCompNum": 30,
     "versionPublish": "4.3.4",
     "favicon": "@PROJECT_PATH@/assets/images/logofinal-128x73-1.png",
     "noImageResize": "",
@@ -87,6 +87,19 @@
           }
         },
         {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><span style=\"font-style: normal;\">Most scent based odour removal products available today mask the odours in the environment by emitting fragrances. By using these products we inhale both the odours and these fragrances. These fragrances are a variety of chemicals (VOCs, volatile organic compounds) and they find their way into our blood stream as we inhale the air around us . Some of these chemicals are carcinogenic and are hazardous to our health. Convention wisdom indicates we stay away from them as much as we can.</span></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-q"
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -116,14 +129,14 @@
             "paddingBottom": 1,
             "bgColor": "#888c58"
           },
-          "text1": "<p>'tamara' uses high quality air purifying grade Activated Carbon to help you manage odours in your car, refrigerator and closed encloses like cupboards, shoe racks etc.</p>",
-          "text2": "<p>The fresheners that we use today emit nice odour masking all the bad odours, so we continue to inhale the bad odours but with a good smell. They don't help us with not inhaling the various gases that get into our blood stream through inhalation.</p>",
-          "text3": "<p>Deviating from the concept of masking the odours, 'tamara' adsorbs (yes,'adsorbs') odours on to its high porous surface area leaving the area free from odours. This way it reduces the various gases that get into our body through inhalation.\n</p>",
+          "text1": "<p><b>To encourage healthy practices of managing odours, we are introducing 'tamara' that uses air purifying grade Activated Carbon extracted from naturally available coconut shells.&nbsp;</b></p><p><br></p>",
+          "text2": "<p><b>'tamara' does not mask the odours but actually removes them from the environment around us by adsorbing them onto it's highly porous surface area thereby leaving the air around us odour free.</b></p>",
+          "text3": "<p><b>Use 'tamara' into your day to day life to manage odours in car indoors, refrigerator indoors, shoe racks, closed enclaves etc.&nbsp;</b></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content7",
-          "_anchor": "content7-a",
+          "_anchor": "content7-t",
           "_styles": {
             "P": {
               "font-family": "'Lora', serif",
@@ -205,7 +218,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Take another organic step to wellness!",
+          "title": "Invest in better breathable air, better living.&nbsp;",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
