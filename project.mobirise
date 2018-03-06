@@ -554,7 +554,7 @@
             "overlayOpacity": 0.5
           },
           "title": "'tamara' Orders",
-          "subtitle": "All orders are Cash On Delivery<br>(Currently delivering in the Hitech City area, Hyderabad. More delivery areas in pipeline.)",
+          "subtitle": "All orders are Cash On Delivery<br>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Place Order</a>",
           "form": {
             "action": "m.ramcharan@bellnexx.com",
