@@ -92,7 +92,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><span style=\"font-style: normal;\">Most scent based odour removal products available today mask the odours in the environment by emitting fragrances. By using these products we inhale both the odours and these fragrances. These fragrances emit a variety of chemicals (VOCs, volatile organic compounds) and they find their way into our blood stream as we inhale the air around us . Some of these chemicals are carcinogenic and are hazardous to our health. Convention wisdom indicates we stay away from these chemicals as much as we can.</span></blockquote>",
+          "text": "<blockquote><span style=\"font-style: normal;\">Most scent based odour removal products available today mask the odours in the environment by emitting fragrances. By using these products we inhale both the odours and these fragrances. These fragrances emit a variety of chemicals (VOCs, volatile organic compounds) and they find their way into our blood stream as we inhale the air around us . Some of these chemicals are carcinogenic and are hazardous to our health. Conventional wisdom indicates we stay away from these chemicals as much as we can.</span></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -554,7 +554,7 @@
             "overlayOpacity": 0.5
           },
           "title": "'tamara' Orders",
-          "subtitle": "All orders are Cash On Delivery",
+          "subtitle": "All orders are Cash On Delivery<br>(Currently delivering in the Hitech City area, Hyderabad. More delivery areas in pipeline.)",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Place Order</a>",
           "form": {
             "action": "m.ramcharan@bellnexx.com",
