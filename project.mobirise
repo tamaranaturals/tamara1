@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.4",
-    "uniqCompNum": 33,
+    "uniqCompNum": 34,
     "versionPublish": "4.3.4",
     "favicon": "@PROJECT_PATH@/assets/images/logofinal-128x73-1.png",
     "noImageResize": "",
@@ -716,6 +716,56 @@
               "color": "#ffffff"
             }
           }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=DlbDI1ZfdTg",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "VOCs &amp; Indoor Air Quality",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-x"
         }
       ]
     }
