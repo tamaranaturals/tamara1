@@ -69,8 +69,8 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.2"
           },
-          "title": "Say, Goodbye to Odours The Organic Way!",
-          "text": "solving car odours, refrigerator odours &amp; shoe rack odours<br><b>100% organic!</b><br>",
+          "title": "Be Smell Free, Healthily!",
+          "text": "use inside cars, refrigerators, shoe racks &amp; closed enclosures<br>(no chemicals used)",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">know more</a> ",
           "_tags": [
             "Theme"
@@ -79,7 +79,8 @@
           "_anchor": "header1-0",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "72px"
             },
             ".mbr-section-lead": {
               "color": "#ffffff"
@@ -129,9 +130,9 @@
             "paddingBottom": 1,
             "bgColor": "#888c58"
           },
-          "text1": "<p><b>To encourage non-chemical based practices of managing odours, we are introducing 'tamara' that uses air purifying grade Activated Carbon extracted from naturally available </b></p><p><b>coconut shells.&nbsp;</b></p><p><br></p>",
-          "text2": "<p><b>'tamara' does not mask the odours by releasing a fragrance but actually removes odours from the environment around us by 'adsorbing' them onto its highly porous surface area thereby leaving the air around us free from odours.</b></p>",
-          "text3": "<p><b>Indoor air quality today is thankfully still manageable by an individual's choice. Choose 'tamara' to manage odours in car indoors, refrigerator indoors, shoe racks, closed enclosures etc. and invest in better breathable air indoors.</b></p>",
+          "text1": "<p><b>To encourage non-chemical based practices of managing odours, we are introducing 'tamara' that uses air purifying grade Activated Carbon extracted from naturally available&nbsp;</b></p><p><b style=\"font-size: 1.07rem;\">coconut shells.&nbsp;</b></p><p><br></p>",
+          "text2": "<p><b>'tamara' does not mask the odours by releasing a fragrance but actually removes those odours from the areas around us by 'adsorbing' them onto its surface.</b></p><p><b>Breathable air indoors today is thankfully</b></p><p><b>still an individual's choice.</b></p>",
+          "text3": "<p><b style=\"font-size: 1.07rem;\">Choose 'tamara' to manage odours inside cars, refrigerators, shoe racks, closed enclosures etc. </b></p><p><b style=\"font-size: 1.07rem;\">Invest in your health by choosing what you breathe from your surrounding.</b><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -189,7 +190,7 @@
             }
           },
           "title": "Directions for use",
-          "text": "1. Remove the 'tamara' bag from the sealed package.<br>2. Each bag is of size 3 inches (height) x 2 inches (width) and can be easily placed or tagged as per convenience. <br><br>It lasts upto 6 months! And a little over too depending on the extent of odours it is exposed to.<br><br>Each 'tamara' bag is packed in high quality air tight packing. This way, it remains fresh until it gets across to you. It is children safe and pet friendly. <br>It is not for internal consumption though.<br><br>Good things also come to an end, so when you notice that the effectiveness of the 'tamara' bag is reduced, place the bag in direct sunlight for about an hour or so and it will last you another couple of weeks until you can get your fresh set of 'tamara' bags. <br><br><i>After use<b>:</b>&nbsp;Since the content of the 'tamara' bag is 100% organic, the used 'tamara' bags can be cut open and the content inside it can be put into earth or plant soil, so it goes back to nature.</i><br><br>",
+          "text": "1. Remove the 'tamara' bag from the sealed package.<br>2. Each bag is of size 3 inches (height) x 2 inches (width) and can be easily placed or tagged as per convenience. <br><br>It can remove odours upto 6 months! And a little over too depending on the extent of odours it is exposed to.<br><br>Each 'tamara' bag is packed in high quality air tight packing. This way, it remains fresh when it gets across to you. <br>It is children safe and pet friendly. It is not for internal consumption though.<br><br>Good things also come to an end, so when you notice that the effectiveness of the 'tamara' bag is reduced, place the bag in direct sunlight for about an hour or so and it will last you another couple of weeks until you can get your fresh set of 'tamara' bags. <br><br><i>After use<b>:</b>&nbsp;Since the content of the 'tamara' bag is 100% natural, the used 'tamara' bags can be cut open and the content inside it can be put into earth or plant soil, so it goes back to nature.</i><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Place your order</a>",
           "_tags": [
             "Theme"
@@ -218,7 +219,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Invest in better breathable indoor air!&nbsp;",
+          "title": "Invest in your health by what you breathe!",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -255,7 +256,7 @@
             {
               "authorName": "Dharani",
               "authorBio": "User",
-              "text": "<p>“It is very effective! I use it in my refrigerator and now whenever the door is open, no more odours! </p><p>Moreover, as the odour solution is purely organic, I am very happy!”</p>",
+              "text": "<p>“It is very effective! I use it in my refrigerator and now whenever the door is open, no more odours! </p><p>Moreover, as the odour solution is purely natural, I am very happy!”</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
