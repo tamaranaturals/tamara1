@@ -471,8 +471,8 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
-            "bgColor": "#4e4949",
+            "transparent": true,
+            "bgColor": "#888c58",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -508,13 +508,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#343030"
+              "background": "#6a6d44"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#464242!important"
+              "background": "#7f8352!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#4e4949"
+              "background": "#888c58"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -536,11 +536,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mobiriselogo-137x104.png",
+              "src": "@PROJECT_PATH@/assets/images/mobiriselogo-4-181x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",

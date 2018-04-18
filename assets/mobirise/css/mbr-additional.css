@@ -516,19 +516,19 @@ h6,
 }
 #ext_menu-y .link[aria-expanded="true"],
 #ext_menu-y .dropdown-menu {
-  background: #343030;
+  background: #6a6d44;
 }
 #ext_menu-y .nav-dropdown-sm .link:focus,
 #ext_menu-y .nav-dropdown-sm .link:hover,
 #ext_menu-y .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-y .nav-dropdown-sm .dropdown-item:hover {
-  background: #464242!important;
+  background: #7f8352!important;
 }
 #ext_menu-y .navbar,
 #ext_menu-y .nav-dropdown-sm,
 #ext_menu-y .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-y .nav-dropdown-sm .dropdown-menu {
-  background: #4e4949;
+  background: #888c58;
 }
 #ext_menu-y .bg-color.transparent .link {
   color: #ffffff;
