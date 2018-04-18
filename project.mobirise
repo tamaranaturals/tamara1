@@ -69,8 +69,8 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.2"
           },
-          "title": "Odour Free Air, Healthily!",
-          "text": "for use inside cars, refrigerators, shoe racks &amp; closed enclosures<br>(no chemicals used, 100% organic!)",
+          "title": "Odour Free Air<br>And Healthy Lifestyles!",
+          "text": "We help cut down your over all chemical use for a better living",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">know more</a> ",
           "_tags": [
             "Theme"
@@ -108,16 +108,19 @@
             ".mbr-section-title": {
               "color": "#ffffff",
               "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
             }
           },
           "_params": {
-            "showMeta": false,
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#888c58"
           },
           "title": "Introducing 'tamara'",
-          "meta": "'tamara' uses high quality air purifying grade Activated Charcoal to help you manage odours in your car, refrigerator and closed encloses like cupboards, shoe racks etc.<br>The room fresheners that we use today emit nice odour masking all the bad odours, so we continue to inhale all the bad odours but with a good smell. They don't help us with not inhaling the various gases that are around us.<br>Deviating from the concept of masking the odours, 'tamara' adsorbs (yes,'adsorbs') odours on to its high porous surface area leaving the area free from odours. This way it reduces the various gases that get into your body through inhalation.&nbsp;<br><br>You are just a call or text away to get closer to pure living!<br>",
+          "meta": "I adsorb odours 24/7 from cars, bathrooms, shoe racks, closets etc and I don't use any chemicals!",
           "_tags": [
             "Theme"
           ],
