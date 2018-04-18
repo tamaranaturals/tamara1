@@ -536,12 +536,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mobiriselogo-4-181x128.png",
+              "src": "@PROJECT_PATH@/assets/images/mobiriselogo-5-181x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "#top",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
