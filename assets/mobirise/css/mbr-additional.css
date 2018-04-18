@@ -502,11 +502,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-y .link {
-  font-size: 1.05rem;
+  font-size: 1rem;
 }
 #ext_menu-y .dropdown-item,
 #ext_menu-y .nav-dropdown-sm .link {
-  font-size: 1.137rem;
+  font-size: 1.083rem;
 }
 #ext_menu-y .link:hover,
 #ext_menu-y .dropdown-item:hover,

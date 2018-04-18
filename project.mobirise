@@ -473,12 +473,12 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#4e4949",
-            "fontSize": "1.05",
+            "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Air Purifying Toss Bags</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page2.html\">BUY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://mobirise.com/\">CALL: +91 9121 0187 12</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Air Purifying Toss Bags</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page2.html\">BUY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"#bottom\">CALL: +91 9121 0187 12</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -499,10 +499,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -536,7 +536,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mobiriselogo-170x128.png",
+              "src": "@PROJECT_PATH@/assets/images/mobiriselogo-137x104.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
