@@ -69,8 +69,8 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.2"
           },
-          "title": "Resolve Odours Healthily!<br>",
-          "text": "We help cut down your over all daily chemical use for a better living<br>(for use inside cars, refrigerators, bath rooms, shoe racks, closets.)",
+          "title": "Remove Odours Healthily!<br>",
+          "text": "We help cut down your over all daily chemical use for a better living<br>(use inside cars, refrigerators, bath rooms, shoe racks, closets.)",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">know more</a> ",
           "_tags": [
             "Theme"
@@ -80,7 +80,7 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#ffffff",
-              "font-size": "72px"
+              "font-size": "60px"
             },
             ".mbr-section-lead": {
               "color": "#ffffff"
