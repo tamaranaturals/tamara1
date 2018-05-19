@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#b66354",
+        "#ea8c7c",
         "#4e4949",
         "#888c58",
         "#2e2e2e",
         "#71af83",
-        "#6e1c1b",
-        "#6c1b1a",
-        "#534623"
+        "#6e1c1b"
       ]
     },
     "versionFirst": "4.3.4",
@@ -69,7 +69,7 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.2"
           },
-          "title": "100% Natural. 0% Fragrance.<br>Health Safe, Odour Eliminator.",
+          "title": "100% Natural. 0% Fragrance.<br>Health Safe, Odor Eliminator",
           "text": "(For use inside cars, refrigerators, bath rooms, shoe racks, closets, pet areas etc.)",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">know more</a> ",
           "_tags": [
@@ -95,7 +95,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><span style=\"font-style: normal;\">Most scent based odour removal products available today mask the odours in the environment by emitting fragrances. By using these products we inhale both the odours and these fragrances. These fragrances emit a variety of chemicals (VOCs, volatile organic compounds) and they find their way into our blood stream as we inhale the air around us . Some of these chemicals are carcinogenic and are hazardous to our health. Conventional wisdom indicates we stay away from these chemicals as much as we can.</span></blockquote>",
+          "text": "<blockquote><span style=\"font-style: normal;\">Most scent based odour removal products available today mask the odours in the environment by emitting fragrances. By using these products we inhale both the odours and these fragrances. Some of these fragrances emit a variety of chemicals (VOCs, volatile organic compounds) and find their way into our blood stream when we inhale the air around us . These chemicals are carcinogenic and are hazardous to our health. Conventional wisdom indicates we stay away from these chemicals as much as we can.</span></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -119,10 +119,10 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#888c58"
+            "bgColor": "#b66354"
           },
           "title": "Introducing 'tamara'",
-          "meta": "I adsorb odours 24/7 from cars, bathrooms, shoe racks, closets etc, I don't use any chemicals and I last upto 6 months!",
+          "meta": "Adsorbs odours 24/7 from cars, bathrooms, shoe racks, closets etc, no chemicals, no fragrance used and lasts upto 6 months!",
           "_tags": [
             "Theme"
           ],
@@ -133,11 +133,11 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#888c58"
+            "bgColor": "#b66354"
           },
-          "text1": "<p><b>To encourage non-chemical based practices of managing odours, we are introducing 'tamara' that uses air purifying grade Activated Carbon extracted from naturally available&nbsp;</b></p><p><b style=\"font-size: 1.07rem;\">coconut shells.&nbsp;</b></p><p><br></p>",
+          "text1": "<p><b>To encourage all natural, no-chemical and no-fragrance based practices of managing odours, we are introducing 'tamara' that uses air purifying grade Activated Carbon extracted from naturally available&nbsp;</b></p><p><b style=\"font-size: 1.07rem;\">coconut shells.&nbsp;</b></p><p><br></p>",
           "text2": "<p><b>'tamara' does not mask the odours by releasing a fragrance but actually removes those odours from the areas around us by 'adsorbing' them onto its surface.</b></p><p><b>Breathable air indoors today is thankfully</b></p><p><b>still an individual's choice.</b></p>",
-          "text3": "<p><b style=\"font-size: 1.07rem;\">Choose 'tamara' to manage odours inside cars, refrigerators, shoe racks, closed enclosures etc. </b></p><p><b style=\"font-size: 1.07rem;\">Invest in your health by choosing what you breathe from your surrounding.</b><br></p>",
+          "text3": "<p><b style=\"font-size: 1.07rem;\">Choose 'tamara' to manage odours inside cars, refrigerators, shoe racks, closed enclosures, pet areas etc. </b></p><p><b style=\"font-size: 1.07rem;\">You invest in your health by choosing what you breathe from your surrounding.</b><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -194,7 +194,7 @@
               "size": 0
             }
           },
-          "title": "Directions for use",
+          "title": "Directions - Just un-pack and place!",
           "text": "1. Remove the 'tamara' bag from the sealed package.<br>2. Each bag is of size 3 inches (height) x 2 inches (width) and can be easily placed or tagged as per convenience. <br><br>It can remove odours upto 6 months! And a little over too depending on the extent of odours it is exposed to.<br><br>Each 'tamara' bag is packed in high quality air tight packing. This way, it remains fresh when it gets across to you. <br>It is children safe and pet friendly. It is not for internal consumption though.<br><br>Good things also come to an end, so when you notice that the effectiveness of the 'tamara' bag is reduced, place the bag in direct sunlight for about an hour or so and it will last you another couple of weeks until you can get your fresh set of 'tamara' bags. <br><br><i>After use<b>:</b>&nbsp;Since the content of the 'tamara' bag is 100% natural, the used 'tamara' bags can be cut open and the content inside it can be put into earth or plant soil, so it goes back to nature.</i><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Place your order</a>",
           "_tags": [
@@ -204,7 +204,7 @@
           "_anchor": "msg-box5-k",
           "_styles": {
             "H3": {
-              "color": "#888c58",
+              "color": "#b66354",
               "font-size": "32px"
             }
           }
@@ -215,7 +215,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#888c58"
+              "color": "#b66354"
             }
           },
           "_params": {
@@ -247,7 +247,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/images1-300x168.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#888c58",
+            "bgColor": "#b66354",
             "overlay": true,
             "overlayColor": "#222",
             "overlayOpacity": "0.5"
@@ -414,7 +414,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Place your order</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Share your feedback</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Place your order</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Share your feedback</a>",
           "_tags": [
             "Theme"
           ],
@@ -477,7 +477,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#888c58",
+            "bgColor": "#b66354",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -513,13 +513,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#6a6d44"
+              "background": "#974e40"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#7f8352!important"
+              "background": "#b05a4b!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#888c58"
+              "background": "#b66354"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -553,7 +553,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TAMARANATURALS</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TAMARANATURALS</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-y"
         }

@@ -438,7 +438,7 @@ h6,
   color: #ffffff;
 }
 #msg-box5-k H3 {
-  color: #888c58;
+  color: #b66354;
   font-size: 32px;
 }
 #header3-m .mbr-section-title,
@@ -446,7 +446,7 @@ h6,
   text-align: center;
 }
 #header3-m .mbr-section-title {
-  color: #888c58;
+  color: #b66354;
 }
 #testimonials4-5 .mbr-section-title {
   color: #ffffff;
@@ -522,19 +522,19 @@ h6,
 }
 #ext_menu-y .link[aria-expanded="true"],
 #ext_menu-y .dropdown-menu {
-  background: #6a6d44;
+  background: #974e40;
 }
 #ext_menu-y .nav-dropdown-sm .link:focus,
 #ext_menu-y .nav-dropdown-sm .link:hover,
 #ext_menu-y .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-y .nav-dropdown-sm .dropdown-item:hover {
-  background: #7f8352!important;
+  background: #b05a4b!important;
 }
 #ext_menu-y .navbar,
 #ext_menu-y .nav-dropdown-sm,
 #ext_menu-y .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-y .nav-dropdown-sm .dropdown-menu {
-  background: #888c58;
+  background: #b66354;
 }
 #ext_menu-y .bg-color.transparent .link {
   color: #ffffff;
