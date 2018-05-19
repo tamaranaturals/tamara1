@@ -57,7 +57,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/sandeepsagar-1201x800.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mother-baby-love-and-care-1920x1200.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -69,7 +69,7 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.2"
           },
-          "title": "Chemical Free, Fragrance Free, Odour Eliminator, Works 24x7!",
+          "title": "100% Natural. 0% Fragrance.<br>Health Safe, Odour Eliminator.",
           "text": "(For use inside cars, refrigerators, bath rooms, shoe racks, closets, pet areas etc.)",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">know more</a> ",
           "_tags": [
