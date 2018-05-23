@@ -1,7 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
+
 
 
 
@@ -412,7 +416,7 @@ h6,
   color: #c0a375;
 }
 .scrollToTop_wraper {
-  opacity: 0 !important;
+  display: none;
 }
 #header1-0 .mbr-section-title {
   color: #ffffff;
@@ -422,6 +426,9 @@ h6,
   color: #ffffff;
   font-family: 'Open Sans', sans-serif;
 }
+#content2-q DIV {
+  font-family: 'Noto Sans', sans-serif;
+}
 #header3-1 .mbr-section-title,
 #header3-1 .mbr-section-subtitle {
   text-align: center;
@@ -429,60 +436,53 @@ h6,
 #header3-1 .mbr-section-title {
   color: #ffffff;
   text-align: center;
+  font-size: 48px;
 }
 #header3-1 .mbr-section-subtitle {
   color: #ffffff;
-}
-#content7-t P {
-  font-family: 'Lora', serif;
-  color: #ffffff;
-}
-#msg-box5-k H3 {
-  color: #b66354;
-  font-size: 32px;
-}
-#header3-m .mbr-section-title,
-#header3-m .mbr-section-subtitle {
   text-align: center;
 }
-#header3-m .mbr-section-title {
-  color: #b66354;
-}
-#testimonials4-5 .mbr-section-title {
-  color: #ffffff;
-  font-size: 36px;
-}
-#testimonials4-5 .card-footer > div {
+#msg-box5-14 P {
+  text-align: left;
   color: #ffffff;
 }
-#pricing-table2-l .mbr-plan-header,
-#pricing-table2-l .mbr-plan-body {
-  background-color: #f4f4f4;
+#msg-box5-14 H3 {
+  color: #ffffff;
+  text-align: left;
+  font-size: 20px;
+  font-family: 'Noto Sans', sans-serif;
 }
-#pricing-table2-l ul,
-#pricing-table2-l .mbr-plan-title,
-#pricing-table2-l .mbr-price-value,
-#pricing-table2-l .mbr-price-figure,
-#pricing-table2-l .mbr-price-term {
-  color: #28262b;
+#msg-box5-14 DIV {
+  font-size: 20px;
+  font-family: 'Noto Sans', sans-serif;
+  text-align: left;
 }
-#pricing-table2-l .mbr-plan {
-  border-color: #e8e8e8;
+#msg-box5-14 SPAN {
+  font-family: 'Noto Sans', sans-serif;
 }
-#pricing-table2-l .mbr-plan .list-group-item {
-  border-color: #cfcfcf;
+#features2-12 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
 }
-#pricing-table2-l .mbr-section__container .mbr-section-title {
+#testimonials1-15 .mbr-section-title {
   color: #ffffff;
 }
-#pricing-table2-l .mbr-plan-title {
-  font-size: 30px;
+#testimonials1-15 .card-footer > div {
+  color: #ffffff;
 }
-#pricing-table2-l .mbr-price-figure {
-  font-size: 60px;
+#pricing-table1-17 .mbr-section__container .mbr-section-title {
+  color: #fff;
 }
-#pricing-table2-l .mbr-plan-price-desc {
-  font-size: 21px;
+#pricing-table1-17 .mbr-section__container .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#pricing-table1-17 .mbr-price-figure {
+  font-size: 48px;
+}
+#pricing-table1-17 .mbr-price-value {
+  font-size: 25px;
+}
+#pricing-table1-17 .mbr-price-term {
+  font-size: 12px;
 }
 #buttons1-n .btn {
   font-size: 18px;
@@ -559,6 +559,13 @@ h6,
 }
 #form1-h .form-control-label {
   color: #232323;
+}
+#header3-18 .mbr-section-title,
+#header3-18 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-18 .mbr-section-title {
+  color: #ffffff;
 }
 #msg-box4-v H3 {
   font-size: 32px;
