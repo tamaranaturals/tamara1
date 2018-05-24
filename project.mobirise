@@ -144,7 +144,7 @@
             "showText": false,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "20",
+            "imageSize": "28",
             "paddingTop": 0,
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -164,7 +164,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/image4826-1-823x803.png",
+              "src": "@PROJECT_PATH@/assets/images/tamaragogreen-1275x803.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -488,7 +488,7 @@
           "description3": "",
           "description4": "",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Delivery Charges Rs.50/-</li></ul>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">You save Rs.30/- per bag&nbsp;</li><li class=\"list-group-item\">Delivery Charges Rs.50/-</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">You save Rs.30/- per bag&nbsp;</li><li class=\"list-group-item\">Overall saving Rs.120/-</li><li class=\"list-group-item\">Delivery Charges Rs.50/-</li></ul>",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">You save Rs.50/- per bag</li><li class=\"list-group-item\">Delivery Charges Nil</li></ul>",
           "list4": "Ask for a quote",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
