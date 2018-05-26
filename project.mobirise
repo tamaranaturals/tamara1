@@ -96,7 +96,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "It's about the method...For ages, to address odours a fragrance is released which is stronger than the odours, so we don't sense the odours. This is about masking the odours in the environment. In this method we inhale both the odours and the fragrances. Each fragrance as we inhale finds it's way directly into our blood stream through inhalation. Now, if these fragrances are synthetic (which means they consist of a mixture of a variety of chemicals) then, that's our human body chemical consumption through inhalation.",
+          "text": "It's about the method...For ages, to address odours a fragrance is released which is stronger than the odours, so we don't sense the odours. This is about masking the odours in the environment. In this method we inhale both the odours and the fragrances. Each fragrance as we inhale finds it's way directly into our blood stream through inhalation. Now, if these fragrances are synthetic (which means they consist of a mixture of a variety of chemicals) then, that's our human body chemical consumption through inhalation by choice.",
           "_tags": [
             "Theme"
           ],
@@ -105,7 +105,8 @@
           "_styles": {
             "DIV": {
               "font-family": "'Noto Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "font-size": "16px"
             }
           }
         },
