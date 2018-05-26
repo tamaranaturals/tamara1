@@ -70,7 +70,7 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.2"
           },
-          "title": "No Fragrance-Odor Eliminator<br>100% Natural. 100% Health-Safe.<br>",
+          "title": "Fragrance Free-Odor Eliminator<br>100% Natural, Healthy &amp; Safe.<br>",
           "text": "(For use inside cars, refrigerators, bath rooms, shoe racks, closets, pet areas etc.)",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">know more</a> ",
           "_tags": [
@@ -81,7 +81,7 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#ffffff",
-              "font-size": "48px"
+              "font-size": "60px"
             },
             ".mbr-section-lead": {
               "color": "#ffffff",
