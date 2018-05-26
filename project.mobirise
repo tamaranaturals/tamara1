@@ -81,7 +81,7 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#ffffff",
-              "font-size": "60px"
+              "font-size": "48px"
             },
             ".mbr-section-lead": {
               "color": "#ffffff",
