@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Tamara",
-    "currentPage": "index.html",
+    "currentPage": "Home.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.4",
-    "uniqCompNum": 46,
+    "uniqCompNum": 48,
     "versionPublish": "4.7.6",
     "favicon": "@PROJECT_PATH@/assets/images/logofinal-128x73-1.png",
     "noImageResize": "",
@@ -40,7 +40,348 @@
     "siteFonts": []
   },
   "pages": {
-    "index.html": {
+    "More.html": {
+      "settings": {
+        "meta_descr": "Web Page Maker Description",
+        "title": "More",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#b66354"
+          },
+          "title": "Learn More About 'tamara'<br>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-18"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>Features</b>:&nbsp;</p><p>1. Keeps odours away:- Suitable for use inside cars, refrigerators, bath rooms, closets, pet areas, gym bags, shoe racks etc. When placed in these areas, adsorbtion (you can learn what is 'adsorbtion' below on this page) begins and continues 24x7 for 180 days. Since this is a natural process of adsorbtion, allow yourself atleast 2 days before your nose can sense the difference.</p><p><b>Health</b>:</p><p>1. Safe from fragrance related allergies:- The presence of the VOC's (volatile organic compounds) in the air around us cause allergies for some people. Here are some symptoms: headache/migraine, dizziness/light-headedness, tiredness/weakness/fatigue, insomnia, shortness of breath, nausea, cold-like symptoms, worsening or triggering of astma symptoms, skin irritation or rash.&nbsp;</p><p>In our day to day living most people use fragrance as a solution for odours. Using this method, people deploy fragrances inside bathrooms, cars, living areas etc., This is where people spend most of the time in a day and exposure to fragrances trigger these symptoms. By adopting the no fragrance method to solve odours, like what 'tamara' does, you keep yourself safe from these allergies and also your body's total exposure to synthetic chemicals comes down benefitting your health.</p><p><b>Convenience</b>:</p><p>1. Just unpack and place:- 'tamara' comes to you in 'air tight' food grade packing. You just have to unpack and place the 'tamara' bag. In bathrooms you can hang it to a hook so it doesn't get wet covering it's surface and obstructing odour adsorbtion. It is children safe (meaning children can touch and play with it like a toss bag, but we don't recommend). Similary it is pet friendly. The contents are not for internal consumption though.</p><p>2. Recharge:- When you observe that the effectiveness of the 'tamara' bag is coming down, then just place the bag in direct sunlight for about an hour and it will recharge itself.</p><p><b>Environment</b>:</p><p>1. After use:- After 180 days just cut open the 'tamara' bag and put the contents into the soil. This way it goes back to earth. It can also be used as manure for plants.</p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-19"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "55",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=djIzXvwIz5U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "What is Adsorption?",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-v",
+          "_styles": {
+            "H3": {
+              "font-size": "32px",
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "55",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#888c58",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/airpollutionincars-897x546.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Air pollution in cars",
+          "text": "-courtesy <br>VIAQ Test Methods and Regulatory Compliance<br>Mark Polster<br>Ford Motor Company",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-w",
+          "_styles": {
+            "H3": {
+              "font-size": "32px",
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=DlbDI1ZfdTg",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "VOCs &amp; Indoor Air Quality",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-x"
+        }
+      ]
+    },
+    "Order.html": {
+      "settings": {
+        "meta_descr": "Web Site Maker Description",
+        "title": "Order",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "'tamara' Orders",
+          "subtitle": "All orders are Cash On Delivery<br>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Place Order</a>",
+          "form": {
+            "action": "m.ramcharan@bellnexx.com",
+            "alerts": {
+              "success": "Thank you for placing your order. We will get back to you with the delivery logistics."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Order Quantity*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Contact Phone*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Order Quantity and Delivery Address*"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-h",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        }
+      ]
+    },
+    "Feedback.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "Feedback",
+        "order": 3
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": false,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "'tamara' Feedback",
+          "subtitle": "Shape our future projects with your constructive feedback.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send Feedback</a>",
+          "form": {
+            "action": "m.ramcharan@bellnexx.com",
+            "alerts": {
+              "success": "Thank you sharing your feedback. Your feedback is valuable for us. We will review and get back to you as appropriate."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-e",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        }
+      ]
+    },
+    "Home.html": {
       "settings": {
         "main": true,
         "title": "Home",
@@ -70,7 +411,7 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.2"
           },
-          "title": "Fragrance Free - Odour Eliminator<br>100% Natural, Healthy &amp; Safe.<br>",
+          "title": "Fragrance Free, Air Freshener!<br>100% Natural, Healthy &amp; Safe.<br>",
           "text": "(For use inside cars, refrigerators, bath rooms, shoe racks, closets, pet areas etc.)",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">know more</a> ",
           "_tags": [
@@ -81,7 +422,7 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#ffffff",
-              "font-size": "48px"
+              "font-size": "60px"
             },
             ".mbr-section-lead": {
               "color": "#ffffff",
@@ -522,8 +863,8 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -650,347 +991,36 @@
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TAMARANATURALS</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-y"
-        }
-      ]
-    },
-    "page1.html": {
-      "settings": {
-        "meta_descr": "Website Generator Description",
-        "title": "Feedback",
-        "order": 3
-      },
-      "components": [
+        },
         {
-          "_params": {
-            "showTitle": true,
-            "showSubTitle": false,
-            "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "'tamara' Feedback",
-          "subtitle": "Shape our future projects with your constructive feedback.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send Feedback</a>",
-          "form": {
-            "action": "m.ramcharan@bellnexx.com",
-            "alerts": {
-              "success": "Thank you sharing your feedback. Your feedback is valuable for us. We will review and get back to you as appropriate."
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-e",
+          "_inherit": "social-buttons2",
           "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
-        }
-      ]
-    },
-    "page2.html": {
-      "settings": {
-        "meta_descr": "Web Site Maker Description",
-        "title": "Order",
-        "order": 2
-      },
-      "components": [
-        {
-          "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
-            "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "'tamara' Orders",
-          "subtitle": "All orders are Cash On Delivery<br>",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Place Order</a>",
-          "form": {
-            "action": "m.ramcharan@bellnexx.com",
-            "alerts": {
-              "success": "Thank you for placing your order. We will get back to you with the delivery logistics."
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": false,
-                "title": "Email",
-                "customTitle": "Order Quantity*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Contact Phone*"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Order Quantity and Delivery Address*"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-h",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
-        }
-      ]
-    },
-    "page3.html": {
-      "settings": {
-        "meta_descr": "Web Page Maker Description",
-        "title": "More",
-        "order": 1
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "font-size": "24px"
             }
           },
           "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#b66354"
-          },
-          "title": "Learn More About 'tamara'<br>",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-18"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote><p><b>Features</b>:&nbsp;</p><p>1. Keeps odours away:- Suitable for use inside cars, refrigerators, bath rooms, closets, pet areas, gym bags, shoe racks etc. When placed in these areas, adsorbtion (you can learn what is 'adsorbtion' below on this page) begins and continues 24x7 for 180 days. Since this is a natural process of adsorbtion, allow yourself atleast 2 days before your nose can sense the difference.</p><p><b>Health</b>:</p><p>1. Safe from fragrance related allergies:- The presence of the VOC's (volatile organic compounds) in the air around us cause allergies for some people. Here are some symptoms: headache/migraine, dizziness/light-headedness, tiredness/weakness/fatigue, insomnia, shortness of breath, nausea, cold-like symptoms, worsening or triggering of astma symptoms, skin irritation or rash.&nbsp;</p><p>In our day to day living most people use fragrance as a solution for odours. Using this method, people deploy fragrances inside bathrooms, cars, living areas etc., This is where people spend most of the time in a day and exposure to fragrances trigger these symptoms. By adopting the no fragrance method to solve odours, like what 'tamara' does, you keep yourself safe from these allergies and also your body's total exposure to synthetic chemicals comes down benefitting your health.</p><p><b>Convenience</b>:</p><p>1. Just unpack and place:- 'tamara' comes to you in 'air tight' food grade packing. You just have to unpack and place the 'tamara' bag. In bathrooms you can hang it to a hook so it doesn't get wet covering it's surface and obstructing odour adsorbtion. It is children safe (meaning children can touch and play with it like a toss bag, but we don't recommend). Similary it is pet friendly. The contents are not for internal consumption though.</p><p>2. Recharge:- When you observe that the effectiveness of the 'tamara' bag is coming down, then just place the bag in direct sunlight for about an hour and it will recharge itself.</p><p><b>Environment</b>:</p><p>1. After use:- After 180 days just cut open the 'tamara' bag and put the contents into the soil. This way it goes back to earth. It can also be used as manure for plants.</p></blockquote>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-19"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "55",
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
+            "bgColor": "#2e2e2e",
             "overlay": false,
-            "overlayColor": "#fff",
+            "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=djIzXvwIz5U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "What is Adsorption?",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-v",
-          "_styles": {
-            "H3": {
-              "font-size": "32px",
-              "color": "#000000"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "55",
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#888c58",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/airpollutionincars-897x546.png",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Air pollution in cars",
-          "text": "-courtesy <br>VIAQ Test Methods and Regulatory Compliance<br>Mark Polster<br>Ford Motor Company",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-w",
-          "_styles": {
-            "H3": {
-              "font-size": "32px",
-              "color": "#ffffff"
-            }
-          }
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=DlbDI1ZfdTg",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "VOCs &amp; Indoor Air Quality",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-x"
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1b"
         }
       ]
     }

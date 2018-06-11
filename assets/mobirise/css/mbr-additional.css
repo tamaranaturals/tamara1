@@ -1,13 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
-
-
-
-
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
 
 
 
@@ -418,9 +413,35 @@ h6,
 .scrollToTop_wraper {
   display: none;
 }
+#header3-18 .mbr-section-title,
+#header3-18 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-18 .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box4-v H3 {
+  font-size: 32px;
+  color: #000000;
+}
+#msg-box5-w H3 {
+  font-size: 32px;
+  color: #ffffff;
+}
+#form1-h .form-control-label {
+  color: #232323;
+}
+#form1-e .form-control-label {
+  color: #232323;
+}
+
+
+
+
+
 #header1-0 .mbr-section-title {
   color: #ffffff;
-  font-size: 48px;
+  font-size: 60px;
 }
 #header1-0 .mbr-section-lead {
   color: #ffffff;
@@ -555,24 +576,10 @@ h6,
 #ext_menu-y .btn {
   font-size: 14px;
 }
-#form1-e .form-control-label {
-  color: #232323;
+#social-buttons4-1b .mbr-section-title,
+#social-buttons4-1b .btn-social {
+  color: #fff;
 }
-#form1-h .form-control-label {
-  color: #232323;
-}
-#header3-18 .mbr-section-title,
-#header3-18 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-18 .mbr-section-title {
-  color: #ffffff;
-}
-#msg-box4-v H3 {
-  font-size: 32px;
-  color: #000000;
-}
-#msg-box5-w H3 {
-  font-size: 32px;
-  color: #ffffff;
+#social-buttons4-1b .mbr-section-title {
+  font-size: 24px;
 }
