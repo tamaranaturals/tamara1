@@ -491,23 +491,15 @@ h6,
 #testimonials1-15 .card-footer > div {
   color: #ffffff;
 }
-#pricing-table1-17 .mbr-section__container .mbr-section-title {
-  color: #fff;
-}
-#pricing-table1-17 .mbr-section__container .mbr-section-subtitle {
-  color: #a0a0a0;
-}
-#pricing-table1-17 .mbr-price-figure {
-  font-size: 48px;
-}
-#pricing-table1-17 .mbr-price-value {
-  font-size: 25px;
-}
-#pricing-table1-17 .mbr-price-term {
-  font-size: 12px;
-}
 #buttons1-n .btn {
   font-size: 18px;
+}
+#social-buttons4-1b .mbr-section-title,
+#social-buttons4-1b .btn-social {
+  color: #fff;
+}
+#social-buttons4-1b .mbr-section-title {
+  font-size: 24px;
 }
 #contacts1-3 STRONG {
   color: #ffffff;
@@ -576,10 +568,9 @@ h6,
 #ext_menu-y .btn {
   font-size: 14px;
 }
-#social-buttons4-1b .mbr-section-title,
-#social-buttons4-1b .btn-social {
+#pricing-table1-1f .mbr-section__container .mbr-section-title {
   color: #fff;
 }
-#social-buttons4-1b .mbr-section-title {
-  font-size: 24px;
+#pricing-table1-1f .mbr-section__container .mbr-section-subtitle {
+  color: #a0a0a0;
 }

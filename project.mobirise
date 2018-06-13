@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.4",
-    "uniqCompNum": 49,
+    "uniqCompNum": 53,
     "versionPublish": "4.7.6",
     "favicon": "@PROJECT_PATH@/assets/images/logofinal-128x73-1.png",
     "noImageResize": "",
@@ -44,7 +44,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "More",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -253,7 +253,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Order",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -319,7 +319,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Feedback",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -759,97 +759,12 @@
           }
         },
         {
-          "_styles": {
-            ".mbr-section__container .mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section__container .mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            },
-            ".mbr-price-figure": {
-              "font-size": "48px"
-            },
-            ".mbr-price-value": {
-              "font-size": "25px"
-            },
-            ".mbr-price-term": {
-              "font-size": "12px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "firstType": "",
-            "secondType": "bg-primary",
-            "thirdType": "",
-            "fourthType": "",
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "showButtons": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#303030",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Pricing",
-          "subtitle": "Pricing table with four columns and solid color background.",
-          "title1": "PERSONAL",
-          "title2": "HOME",
-          "title3": "COMMUNITY",
-          "title4": "BUSINESS",
-          "subtitle1": "BUY 1 'tamara' Bag",
-          "subtitle2": "BUY 4 'tamara' Bags",
-          "subtitle3": "Order 20-50 Bags",
-          "subtitle4": "Bulk Orders/Trade Enquiries etc.",
-          "label1": "HOT!",
-          "label2": "HOT!",
-          "label3": "HOT!",
-          "label4": "HOT!",
-          "currency1": "Rs.",
-          "currency2": "Rs.",
-          "currency3": "Rs.",
-          "currency4": "",
-          "price1": "410",
-          "price2": "380",
-          "price3": "360",
-          "price4": "Call Us",
-          "period1": "/bag.<br>price inclusive of 18% GST<br>",
-          "period2": "/bag.<br>price inclusive of 18% GST<br>",
-          "period3": "/bag.<br>price inclusive of 18% GST<br>",
-          "period4": "",
-          "description1": "",
-          "description2": "",
-          "description3": "",
-          "description4": "",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Delivery Charges Rs.50/-</li></ul>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">You save Rs.30/- per bag&nbsp;</li><li class=\"list-group-item\">Overall saving Rs.120/-</li><li class=\"list-group-item\">Delivery Charges Rs.50/-</li></ul>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">You save Rs.50/- per bag</li><li class=\"list-group-item\">Delivery Charges Nil</li></ul>",
-          "list4": "Ask for a quote",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pricing-table1",
-          "_anchor": "pricing-table1-17"
-        },
-        {
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Place your order</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Share your feedback</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Share your feedback</a> <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Pricing &amp; Orders</a>",
           "_tags": [
             "Theme"
           ],
@@ -860,6 +775,36 @@
               "font-size": "18px"
             }
           }
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/tamaranaturals\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1b"
         },
         {
           "_params": {
@@ -918,7 +863,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Air Purifying Toss Bags</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"page2.html\">BUY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"#bottom\">CALL: +91 9121 0187 12</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Air Purifying Toss Bags</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"page2.html\">BUY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"page4.html\">PRICING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"#bottom\">CALL: +91 9121 0187 12</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -991,36 +936,91 @@
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TAMARANATURALS</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-y"
-        },
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "Pricing",
+        "order": 1
+      },
+      "components": [
         {
-          "_inherit": "social-buttons2",
           "_styles": {
-            ".mbr-section-title, .btn-social": {
+            ".mbr-section__container .mbr-section-title": {
               "color": "#fff"
             },
-            ".mbr-section-title": {
-              "font-size": "24px"
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
             }
           },
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "secondType": "bg-primary",
+            "thirdType": "",
+            "fourthType": "",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "showButtons": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#303030",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
+          "title": "PRICING",
+          "subtitle": "(price inclusive of 18% GST)",
+          "title1": "PERSONAL",
+          "title2": "HOME",
+          "title3": "COMMUNITY",
+          "title4": "BUSINESS",
+          "subtitle1": "BUY 1 'tamara' Bag",
+          "subtitle2": "BUY 4 'tamara' Bags",
+          "subtitle3": "Order 20-50 Bags",
+          "subtitle4": "Bulk Orders/Trade Enquiries etc.",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "Rs",
+          "currency2": "Rs",
+          "currency3": "Rs",
+          "currency4": "&nbsp;",
+          "price1": " 410",
+          "price2": " 380",
+          "price3": " 360",
+          "price4": "Call us",
+          "period1": "/bag",
+          "period2": "/bag",
+          "period3": "/bag",
+          "period4": "",
+          "description1": "Perfect for a traveller, place it in your car and enjoy your rides",
+          "description2": "Perfect for a family, use in your car, refrigerator and bathrooms",
+          "description3": "Perfect for a group in a corporate or an apartment to order in one lot",
+          "description4": "Perfect for a distributor of products, store owners etc.",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">Delivery Charges Rs.50/-</span></li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">&nbsp;You save Rs.30/- per bag &nbsp;</span><br><span style=\"background-color: initial; font-size: 0.875rem;\"></span></li><li class=\"list-group-item\">Overall saving Rs.120/-\n</li><li class=\"list-group-item\">Delivery Charges Rs.50/-</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">You save Rs.50/- per bag&nbsp;</span><br><span style=\"background-color: initial; font-size: 0.875rem;\"></span></li><li class=\"list-group-item\">Delivery Charges Nil</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Ask for a quote</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"Order.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"Order.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"Order.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"Order.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
           "_tags": [
             "Theme"
           ],
-          "text": "FOLLOW US",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/tamaranaturals\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         ",
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-1b"
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-1f"
         }
       ]
     }
