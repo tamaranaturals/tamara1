@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.4",
-    "uniqCompNum": 48,
+    "uniqCompNum": 49,
     "versionPublish": "4.7.6",
     "favicon": "@PROJECT_PATH@/assets/images/logofinal-128x73-1.png",
     "noImageResize": "",
@@ -1018,7 +1018,7 @@
             "Theme"
           ],
           "text": "FOLLOW US",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         ",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/tamaranaturals\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         ",
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-1b"
         }
