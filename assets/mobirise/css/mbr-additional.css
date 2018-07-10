@@ -439,13 +439,28 @@ h6,
 
 
 
+
+
+
 #header1-0 .mbr-section-title {
   color: #ffffff;
   font-size: 60px;
+  font-family: 'Open Sans', sans-serif;
 }
 #header1-0 .mbr-section-lead {
   color: #ffffff;
   font-family: 'Open Sans', sans-serif;
+}
+#header1-0 .mbr-section-title I {
+  font-size: 36px;
+}
+#header1-0 .mbr-section-title SPAN {
+  font-size: 46px;
+  font-family: 'Open Sans', sans-serif;
+}
+#header1-0 .mbr-section-lead SPAN {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
 }
 #content2-q DIV {
   font-family: 'Noto Sans', sans-serif;

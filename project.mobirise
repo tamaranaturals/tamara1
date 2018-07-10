@@ -412,8 +412,8 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.2"
           },
-          "title": "Fragrance Free, Air Freshener!<br>100% Natural, Healthy &amp; Safe.<br>",
-          "text": "(For use inside cars, refrigerators, bath rooms, shoe racks, closets, pet areas etc.)",
+          "title": "Leave It On, Odour Eliminator<br><span style=\"font-weight: normal;\">Fragrance  Free, 100% Natural, Healthy &amp; Safe</span><br>",
+          "text": "<span style=\"font-style: normal;\">(For use inside cars, refrigerators, bath rooms, shoe racks, closets, pet areas etc.)</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">know more</a> ",
           "_tags": [
             "Theme"
@@ -423,12 +423,27 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#ffffff",
-              "font-size": "60px"
+              "font-size": "60px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".mbr-section-lead": {
               "color": "#ffffff",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-section-title I": {
+              "font-size": "36px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "46px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "25px"
             }
           }
         },
@@ -473,7 +488,7 @@
             "paddingBottom": "0",
             "bgColor": "#b66354"
           },
-          "title": "Introducing 'tamara' Air Purifying Toss Bags<br>",
+          "title": "Introducing 'TAMARA' Air Purifying Toss Bags<br>",
           "meta": "We don't mask the odours. We actually 'adsorb' odours! 100% natural &amp; 0% fragrance!<br>",
           "_tags": [
             "Theme"
@@ -822,7 +837,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logofinal-128x73.png",
+              "src": "@PROJECT_PATH@/assets/images/tamara5elements-redfullpage1-128x79.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -922,7 +937,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mobiriselogo-8-181x128.png",
+              "src": "@PROJECT_PATH@/assets/images/tamara5elements-redfullpage1-208x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -940,7 +955,7 @@
         }
       ]
     },
-    "page4.html": {
+    "pricing.html": {
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Pricing",
