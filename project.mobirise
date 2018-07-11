@@ -11,7 +11,7 @@
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
+        "dangerColor": "#2969b0",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.4",
-    "uniqCompNum": 53,
+    "uniqCompNum": 60,
     "versionPublish": "4.7.6",
     "favicon": "@PROJECT_PATH@/assets/images/logofinal-128x73-1.png",
     "noImageResize": "",
@@ -45,7 +45,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "More",
-        "order": 2
+        "order": 6
       },
       "components": [
         {
@@ -250,77 +250,11 @@
         }
       ]
     },
-    "Order.html": {
-      "settings": {
-        "meta_descr": "Web Site Maker Description",
-        "title": "Order",
-        "order": 3
-      },
-      "components": [
-        {
-          "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
-            "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "'tamara' Orders",
-          "subtitle": "All orders are Cash On Delivery<br>",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Place Order</a>",
-          "form": {
-            "action": "m.ramcharan@bellnexx.com",
-            "alerts": {
-              "success": "Thank you for placing your order. We will get back to you with the delivery logistics."
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": false,
-                "title": "Email",
-                "customTitle": "Order Quantity*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Contact Phone*"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Order Quantity and Delivery Address*"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-h",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
-        }
-      ]
-    },
     "Feedback.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Feedback",
-        "order": 4
+        "order": 7
       },
       "components": [
         {
@@ -339,13 +273,13 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "'tamara' Feedback",
+          "title": "TAMARA Feedback",
           "subtitle": "Shape our future projects with your constructive feedback.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send Feedback</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
           "form": {
             "action": "m.ramcharan@bellnexx.com",
             "alerts": {
-              "success": "Thank you sharing your feedback. Your feedback is valuable for us. We will review and get back to you as appropriate."
+              "success": "Thank you for taking your time out to share your feedback. Your feedback is very valuable for us. We will review and get back to you as appropriate soon!"
             },
             "fields": {
               "name": {
@@ -359,7 +293,7 @@
                 "customTitle": "Email*"
               },
               "phone": {
-                "visible": true,
+                "visible": false,
                 "title": "Phone",
                 "customTitle": "Phone"
               },
@@ -775,24 +709,6 @@
           }
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Share your feedback</a> <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Pricing &amp; Orders</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-n",
-          "_styles": {
-            ".btn": {
-              "font-size": "18px"
-            }
-          }
-        },
-        {
           "_inherit": "social-buttons2",
           "_styles": {
             ".mbr-section-title, .btn-social": {
@@ -817,10 +733,28 @@
           "_tags": [
             "Theme"
           ],
-          "text": "FOLLOW US",
+          "text": "Like our facebook page and get 5% off on your purchases",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/tamaranaturals\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         ",
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-1b"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"Feedback.html#form1-e\" data-toolbar=\"-mbrBtnMove\">Share your feedback</a> <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"pricing.html#social-buttons4-1h\" data-toolbar=\"-mbrBtnMove\">Pricing &amp; Orders</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-n",
+          "_styles": {
+            ".btn": {
+              "font-size": "18px"
+            }
+          }
         },
         {
           "_params": {
@@ -879,7 +813,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Air Purifying Toss Bags</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"page2.html\">BUY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"page4.html\">PRICING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"#bottom\">CALL: +91 9121 0187 12</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Air Purifying Toss Bags</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"pricing.html#social-buttons4-1h\">BUY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"#bottom\">CALL: +91 9121 0187 12</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -959,9 +893,40 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Pricing",
-        "order": 1
+        "order": 5
       },
       "components": [
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "22px",
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "Like our facebook page and get 5% off on your purchases",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social btn-info\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/tamaranaturals\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1h"
+        },
         {
           "_styles": {
             ".mbr-section__container .mbr-section-title": {
@@ -978,8 +943,8 @@
             "secondType": "bg-primary",
             "thirdType": "",
             "fourthType": "",
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": 3,
             "showButtons": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -995,7 +960,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PRICING",
-          "subtitle": "",
+          "subtitle": "(prices inclusive of all taxes)",
           "title1": "PERSONAL",
           "title2": "HOME",
           "title3": "COMMUNITY",
@@ -1003,7 +968,7 @@
           "subtitle1": "BUY 1 'tamara' Bag",
           "subtitle2": "BUY 4 'tamara' Bags",
           "subtitle3": "Order 20-50 Bags",
-          "subtitle4": "Bulk Orders/Trade Enquiries etc.",
+          "subtitle4": "Order 50+ Bags",
           "label1": "HOT!",
           "label2": "HOT!",
           "label3": "HOT!",
@@ -1011,32 +976,308 @@
           "currency1": "Rs",
           "currency2": "Rs",
           "currency3": "Rs",
-          "currency4": "&nbsp;",
-          "price1": " 410",
-          "price2": " 380",
-          "price3": " 360",
-          "price4": "Call us",
-          "period1": "/bag",
-          "period2": "/bag",
-          "period3": "/bag",
+          "currency4": "",
+          "price1": "410",
+          "price2": "380",
+          "price3": "360",
+          "price4": "Call Us",
+          "period1": "/bag.",
+          "period2": "/bag.",
+          "period3": "/bag.",
           "period4": "",
-          "description1": "Perfect for a traveller, place it in your car and enjoy your rides",
-          "description2": "Perfect for a family, use in your car, refrigerator and bathrooms",
-          "description3": "Perfect for a group in a corporate or an apartment to order in one lot",
-          "description4": "Perfect for a distributor of products, store owners etc.",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">Delivery Charges Rs.50/-</span></li></ul>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">&nbsp;You save Rs.30/- per bag &nbsp;</span><br><span style=\"background-color: initial; font-size: 0.875rem;\"></span></li><li class=\"list-group-item\">Overall saving Rs.120/-\n</li><li class=\"list-group-item\">Delivery Charges Rs.50/-</li></ul>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">You save Rs.50/- per bag&nbsp;</span><br><span style=\"background-color: initial; font-size: 0.875rem;\"></span></li><li class=\"list-group-item\">Delivery Charges Nil</li></ul>",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Ask for a quote</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"Order.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"Order.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"Order.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"Order.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "description1": "Use it as your travel companion, in your car or gym bag!",
+          "description2": "Ideal for a family, use in your car, refrigerator and bathrooms",
+          "description3": "Benefit by being a group in a corporate or an apartment to order in one lot",
+          "description4": "Suitable for&nbsp;Bulk Orders/Trade Enquiries etc.",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Delivery Charges Rs.50/-</li><li class=\"list-group-item\"><br></li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">You save Rs.30/- per bag &nbsp;</li><li class=\"list-group-item\">Delivery Charges Rs.50/-</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">You save Rs.50/- per bag&nbsp;</li><li class=\"list-group-item\">Delivery Charges Nil</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Get our quote!</li><li class=\"list-group-item\"><br></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"personalorder.html#form1-1l\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ORDER NOW</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"homeorder.html#form1-1k\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ORDER NOW</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"communityorder.html#form1-1m\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ORDER NOW</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"businessorder.html#form1-1n\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">SEND MESSAGE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "pricing-table1",
-          "_anchor": "pricing-table1-1f"
+          "_anchor": "pricing-table1-1i"
+        }
+      ]
+    },
+    "homeorder.html": {
+      "settings": {
+        "meta_descr": "Orders for 4 TAMARA bags",
+        "title": "HomeOrder",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "TAMARA HOME",
+          "subtitle": "Ordering Quantity - 4 Tamara Bags<br>(All orders are cash on delivery for now)",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">PLACE ORDER</a>",
+          "form": {
+            "action": "m.ramcharan@bellnexx.com",
+            "alerts": {
+              "success": "Thanks for your order. We will get back to you with the delivery logistics!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Address"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-1k",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#b8312f"
+            }
+          }
+        }
+      ]
+    },
+    "communityorder.html": {
+      "settings": {
+        "meta_descr": "Orders for 4 TAMARA bags",
+        "title": "CommunityOrder",
+        "order": 3
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "TAMARA COMMUNITY",
+          "subtitle": "(All orders are cash on delivery for now)",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">PLACE ORDER</a>",
+          "form": {
+            "action": "m.ramcharan@bellnexx.com",
+            "alerts": {
+              "success": "Thanks for your order. We will get back to you with the delivery logistics!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Address - Please mention order quantity "
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#b8312f"
+            }
+          },
+          "_anchor": "form1-1m"
+        }
+      ]
+    },
+    "businessorder.html": {
+      "settings": {
+        "meta_descr": "Orders for 4 TAMARA bags",
+        "title": "BusinessOrder",
+        "order": 4
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": false,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "TAMARA BUSINESS",
+          "subtitle": "",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>",
+          "form": {
+            "action": "m.ramcharan@bellnexx.com",
+            "alerts": {
+              "success": "Thank you for your interest. We will get back to you soon!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#b8312f"
+            }
+          },
+          "_anchor": "form1-1n"
+        }
+      ]
+    },
+    "personalorder.html": {
+      "settings": {
+        "meta_descr": "Orders for 4 TAMARA bags",
+        "title": "PersonalOrder",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "TAMARA PERSONAL",
+          "subtitle": "Ordering Quantity - 1 Tamara Bag<br>(All orders are cash on delivery for now)",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">PLACE ORDER</a>",
+          "form": {
+            "action": "m.ramcharan@bellnexx.com",
+            "alerts": {
+              "success": "Thanks for your order. We will get back to you with the delivery logistics!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Address"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#b8312f"
+            }
+          },
+          "_anchor": "form1-1l"
         }
       ]
     }

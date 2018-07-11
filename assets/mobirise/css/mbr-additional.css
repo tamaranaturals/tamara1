@@ -89,7 +89,7 @@ h6,
   background-color: #f3c649 !important;
 }
 .bg-danger {
-  background-color: #f28281 !important;
+  background-color: #2969b0 !important;
 }
 .btn-primary {
   background-color: #c0a375;
@@ -192,8 +192,8 @@ h6,
   border-color: #e1a90f !important;
 }
 .btn-danger {
-  background-color: #f28281;
-  border-color: #f28281;
+  background-color: #2969b0;
+  border-color: #2969b0;
   color: #ffffff;
 }
 .btn-danger:hover,
@@ -202,14 +202,14 @@ h6,
 .btn-danger:active,
 .btn-danger.active {
   color: #ffffff;
-  background-color: #eb3d3c;
-  border-color: #eb3d3c;
+  background-color: #1b4472;
+  border-color: #1b4472;
 }
 .btn-danger.disabled,
 .btn-danger:disabled {
   color: #ffffff !important;
-  background-color: #eb3d3c !important;
-  border-color: #eb3d3c !important;
+  background-color: #1b4472 !important;
+  border-color: #1b4472 !important;
 }
 .btn-primary-outline {
   background: none;
@@ -313,8 +313,8 @@ h6,
 }
 .btn-danger-outline {
   background: none;
-  border-color: #e82625;
-  color: #e82625;
+  border-color: #16385d;
+  color: #16385d;
 }
 .btn-danger-outline:hover,
 .btn-danger-outline:focus,
@@ -322,14 +322,14 @@ h6,
 .btn-danger-outline:active,
 .btn-danger-outline.active {
   color: #ffffff;
-  background-color: #f28281;
-  border-color: #f28281;
+  background-color: #2969b0;
+  border-color: #2969b0;
 }
 .btn-danger-outline.disabled,
 .btn-danger-outline:disabled {
   color: #ffffff !important;
-  background-color: #f28281 !important;
-  border-color: #f28281 !important;
+  background-color: #2969b0 !important;
+  border-color: #2969b0 !important;
 }
 .text-primary {
   color: #c0a375 !important;
@@ -344,7 +344,7 @@ h6,
   color: #f3c649 !important;
 }
 .text-danger {
-  color: #f28281 !important;
+  color: #2969b0 !important;
 }
 .alert-success {
   background-color: #90a878;
@@ -356,7 +356,7 @@ h6,
   background-color: #f3c649;
 }
 .alert-danger {
-  background-color: #f28281;
+  background-color: #2969b0;
 }
 .btn-social {
   border-color: #c0a375;
@@ -404,7 +404,7 @@ h6,
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #79aae0;
 }
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
@@ -427,9 +427,6 @@ h6,
 #msg-box5-w H3 {
   font-size: 32px;
   color: #ffffff;
-}
-#form1-h .form-control-label {
-  color: #232323;
 }
 #form1-e .form-control-label {
   color: #232323;
@@ -506,15 +503,15 @@ h6,
 #testimonials1-15 .card-footer > div {
   color: #ffffff;
 }
-#buttons1-n .btn {
-  font-size: 18px;
-}
 #social-buttons4-1b .mbr-section-title,
 #social-buttons4-1b .btn-social {
   color: #fff;
 }
 #social-buttons4-1b .mbr-section-title {
   font-size: 24px;
+}
+#buttons1-n .btn {
+  font-size: 18px;
 }
 #contacts1-3 STRONG {
   color: #ffffff;
@@ -583,9 +580,41 @@ h6,
 #ext_menu-y .btn {
   font-size: 14px;
 }
-#pricing-table1-1f .mbr-section__container .mbr-section-title {
+#social-buttons4-1h .mbr-section-title,
+#social-buttons4-1h .btn-social {
   color: #fff;
 }
-#pricing-table1-1f .mbr-section__container .mbr-section-subtitle {
+#social-buttons4-1h .mbr-section-title {
+  font-size: 22px;
+  color: #000000;
+}
+#pricing-table1-1i .mbr-section__container .mbr-section-title {
+  color: #fff;
+}
+#pricing-table1-1i .mbr-section__container .mbr-section-subtitle {
   color: #a0a0a0;
+}
+#form1-1k .form-control-label {
+  color: #232323;
+}
+#form1-1k .mbr-section-title {
+  color: #b8312f;
+}
+#form1-1m .form-control-label {
+  color: #232323;
+}
+#form1-1m .mbr-section-title {
+  color: #b8312f;
+}
+#form1-1n .form-control-label {
+  color: #232323;
+}
+#form1-1n .mbr-section-title {
+  color: #b8312f;
+}
+#form1-1l .form-control-label {
+  color: #232323;
+}
+#form1-1l .mbr-section-title {
+  color: #b8312f;
 }
