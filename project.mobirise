@@ -771,7 +771,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/tamara5elements-redfullpage1-128x79.png",
+              "src": "@PROJECT_PATH@/assets/images/tamara5elements-newfinal1-128x79.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -871,7 +871,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/tamara5elements-redfullpage1-208x128.png",
+              "src": "@PROJECT_PATH@/assets/images/tamara5elements-newfinal1-208x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
