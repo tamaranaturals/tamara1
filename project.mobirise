@@ -347,7 +347,7 @@
             "overlayOpacity": "0.2"
           },
           "title": "Choose Natural To Breathe!<br><span style=\"font-weight: normal;\">Fragrance  Free, 100% Natural, Healthy &amp; Safe</span><br>",
-          "text": "<span style=\"font-style: normal;\">(For use inside cars, refrigerators, bath rooms, shoe racks, closets, pet areas etc.)</span>",
+          "text": "<span style=\"font-style: normal;\">(Odour Eliminator for use inside cars, refrigerators, bath rooms, shoe racks, closets, pet areas etc.)</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">know more</a> ",
           "_tags": [
             "Theme"
@@ -377,7 +377,7 @@
             ".mbr-section-lead SPAN": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "25px"
+              "font-size": "20px"
             }
           }
         },
