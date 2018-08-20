@@ -934,6 +934,9 @@
             },
             ".mbr-section__container .mbr-section-subtitle": {
               "color": "#a0a0a0"
+            },
+            ".mbr-price-figure": {
+              "font-size": "48px"
             }
           },
           "_params": {
@@ -981,9 +984,9 @@
           "price2": "390",
           "price3": "370",
           "price4": "Call Us",
-          "period1": "/bag.",
-          "period2": "/bag.",
-          "period3": "/bag.",
+          "period1": "/bag",
+          "period2": "/bag",
+          "period3": "/bag",
           "period4": "",
           "description1": "Use it as your travel companion, in your car or gym bag!",
           "description2": "Ideal for a family, use in your car, refrigerator and bathrooms",
