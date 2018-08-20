@@ -944,7 +944,7 @@
             "showSubtitle": true,
             "firstType": "",
             "secondType": "bg-primary",
-            "thirdType": "",
+            "thirdType": "hidden",
             "fourthType": "",
             "paddingTop": "1",
             "paddingBottom": 3,
