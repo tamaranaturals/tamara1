@@ -452,7 +452,7 @@ h6,
   font-size: 36px;
 }
 #header1-0 .mbr-section-title SPAN {
-  font-size: 32px;
+  font-size: 36px;
   font-family: 'Open Sans', sans-serif;
 }
 #header1-0 .mbr-section-lead SPAN {
@@ -596,6 +596,12 @@ h6,
 }
 #pricing-table1-1i .mbr-price-figure {
   font-size: 48px;
+}
+#pricing-table1-1i .mbr-plan-subtitle {
+  font-size: 20px;
+}
+#pricing-table1-1i .mbr-plan-title {
+  font-size: 20px;
 }
 #form1-1k .form-control-label {
   color: #232323;

@@ -346,7 +346,7 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.2"
           },
-          "title": "CHOOSE WHAT YOU BREATHE!<br><span style=\"font-weight: normal;\">Fragrance  Free - Odour Eliminator.&nbsp;</span><span style=\"font-weight: normal;\">100% Organic, Healthy &amp; Safe.</span><br>",
+          "title": "CHOOSE WHAT YOU BREATHE!<br><span style=\"font-weight: normal;\">Air Purifying Toss Bags -&nbsp;</span><span style=\"font-weight: normal;\">100% Organic, Healthy &amp; Safe.</span><br>",
           "text": "<span style=\"font-style: normal;\">(for use inside cars, refrigerators, bath rooms, shoe racks, closets, pet areas etc.)</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">know more</a> ",
           "_tags": [
@@ -370,7 +370,7 @@
               "font-size": "36px"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "32px",
+              "font-size": "36px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
@@ -937,6 +937,12 @@
             },
             ".mbr-price-figure": {
               "font-size": "48px"
+            },
+            ".mbr-plan-subtitle": {
+              "font-size": "20px"
+            },
+            ".mbr-plan-title": {
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -968,8 +974,8 @@
           "title2": "HOME",
           "title3": "COMMUNITY",
           "title4": "BUSINESS",
-          "subtitle1": "BUY 1 'tamara' Bag",
-          "subtitle2": "BUY 4 'tamara' Bags",
+          "subtitle1": "BUY 1 'tamara' Bag<br>(bag lasts 6 months!)<br>",
+          "subtitle2": "BUY 4 'tamara' Bags<br>(each bag lasts 6 months!)<br>",
           "subtitle3": "Order 20-50 Bags",
           "subtitle4": "Order 50+ Bags",
           "label1": "HOT!",
@@ -984,12 +990,12 @@
           "price2": "425",
           "price3": "370",
           "price4": "Call Us",
-          "period1": "/bag",
+          "period1": "/bag<br>",
           "period2": "/bag",
           "period3": "/bag",
           "period4": "",
-          "description1": "Use it as your travel companion, in your car or gym bag!",
-          "description2": "Ideal for a family, use in your car, refrigerator and bathrooms",
+          "description1": "Use it as your travel companion, in your car or gym bag!<br><br>",
+          "description2": "Ideal for a family, use in your car, refrigerator and bathrooms.<br>",
           "description3": "Benefit by being a group in a corporate or an apartment to order in one lot",
           "description4": "Suitable for&nbsp;Bulk Orders/Trade Enquiries etc.",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Delivery Charges Rs.50/-</li><li class=\"list-group-item\"><br></li></ul>",
