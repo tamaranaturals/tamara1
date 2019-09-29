@@ -471,7 +471,7 @@ h6,
 #header3-1 .mbr-section-title {
   color: #2e2e2e;
   text-align: center;
-  font-size: 48px;
+  font-size: 36px;
 }
 #header3-1 .mbr-section-subtitle {
   color: #ffffff;
@@ -500,6 +500,7 @@ h6,
 }
 #testimonials1-15 .mbr-section-title {
   color: #2e2e2e;
+  font-size: 36px;
 }
 #testimonials1-15 .card-footer > div {
   color: #ffffff;
@@ -518,6 +519,9 @@ h6,
 #msg-box8-1o .mbr-section-title,
 #msg-box8-1o p {
   color: #fff;
+}
+#msg-box8-1o .mbr-section-title {
+  font-size: 36px;
 }
 #contacts1-3 STRONG {
   color: #ffffff;

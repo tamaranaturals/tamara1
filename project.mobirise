@@ -409,7 +409,7 @@
             ".mbr-section-title": {
               "color": "#2e2e2e",
               "text-align": "center",
-              "font-size": "48px"
+              "font-size": "36px"
             },
             ".mbr-section-subtitle": {
               "color": "#ffffff",
@@ -701,7 +701,8 @@
           "_anchor": "testimonials1-15",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#2e2e2e"
+              "color": "#2e2e2e",
+              "font-size": "36px"
             },
             ".card-footer > div": {
               "color": "#ffffff"
@@ -761,6 +762,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_params": {
