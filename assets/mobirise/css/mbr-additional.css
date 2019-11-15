@@ -496,7 +496,13 @@ h6,
   font-family: 'Noto Sans', sans-serif;
 }
 #features2-12 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
+  background-color: #ffffff;
+}
+#features2-12 .mbr-cards-col:nth-child(odd) .card-text {
+  color: #000000;
+}
+#features2-12 .mbr-cards-col:nth-child(odd) .card-title {
+  color: #000000;
 }
 #testimonials1-15 .mbr-section-title {
   color: #2e2e2e;
