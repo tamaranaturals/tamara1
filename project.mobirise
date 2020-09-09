@@ -926,7 +926,7 @@
           "_tags": [
             "Theme"
           ],
-          "text": "Like our facebook page and get 5% off on your purchases",
+          "text": "Like us on facebook",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social btn-info\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/tamaranaturals\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         ",
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-1h"
