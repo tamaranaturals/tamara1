@@ -346,7 +346,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.2"
           },
-          "title": "Tamara - Deodorizing Charcoal Bags<br><span style=\"font-weight: normal;\">100% Organic, 0% fragrance, Healthy &amp; Safe.</span><br>",
+          "title": "Deodorizing Charcoal Bags<br><span style=\"font-weight: normal;\">100% Organic, 0% fragrance, Healthy &amp; Safe.</span><br>",
           "text": "<span style=\"font-style: normal;\">(for use inside cars, refrigerators, wash rooms, shoe racks, closets, pet areas etc.)</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">know more</a> ",
           "_tags": [
@@ -357,7 +357,7 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#ffffff",
-              "font-size": "48px",
+              "font-size": "60px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "text-align": "center"
