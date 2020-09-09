@@ -346,7 +346,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.3"
           },
-          "title": "Deodorizing Charcoal Bags<br><span style=\"font-weight: normal;\">100% Organic, 0% fragrance, Healthy &amp; Safe.</span><br>",
+          "title": "Deodorizing Charcoal Bags<br><span style=\"font-weight: normal;\">All Natural, Zero Fragrance, Healthy &amp; Safe.</span><br>",
           "text": "<span style=\"font-style: normal;\">(for use inside cars, refrigerators, wash rooms, shoe racks, closets, pet areas etc.)</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">know more</a> ",
           "_tags": [
@@ -408,7 +408,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-20200909-100244-1400x2050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20200909-113504-1400x2050.jpg",
               "link": "",
               "alt": "",
               "title": ""
