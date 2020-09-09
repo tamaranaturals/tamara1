@@ -536,7 +536,7 @@
             "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": true,
-            "columnsColor": "#ffffff",
+            "columnsColor": "#efefef",
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": 4,
@@ -581,7 +581,7 @@
           "_anchor": "features2-12",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#ffffff"
+              "background-color": "#efefef"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
               "color": "#000000"
