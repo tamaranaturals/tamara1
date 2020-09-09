@@ -334,7 +334,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1271.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -344,7 +344,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.2"
+            "overlayOpacity": "0.3"
           },
           "title": "Deodorizing Charcoal Bags<br><span style=\"font-weight: normal;\">100% Organic, 0% fragrance, Healthy &amp; Safe.</span><br>",
           "text": "<span style=\"font-style: normal;\">(for use inside cars, refrigerators, wash rooms, shoe racks, closets, pet areas etc.)</span>",
