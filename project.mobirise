@@ -346,8 +346,8 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.2"
           },
-          "title": "Pure Air To Breathe!<br><span style=\"font-weight: normal;\">Tamara - Air Purifying Toss Bags</span><br><span style=\"font-weight: normal;\">100% Organic, 0% fragrance, Healthy &amp; Safe.</span><br>",
-          "text": "<span style=\"font-style: normal;\">(for use inside cars, refrigerators, bath rooms, shoe racks, closets, pet areas etc.)</span>",
+          "title": "Tamara - Deodorizing Charcoal Bags<br><span style=\"font-weight: normal;\">100% Organic, 0% fragrance, Healthy &amp; Safe.</span><br>",
+          "text": "<span style=\"font-style: normal;\">(for use inside cars, refrigerators, wash rooms, shoe racks, closets, pet areas etc.)</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">know more</a> ",
           "_tags": [
             "Theme"
@@ -357,9 +357,10 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#ffffff",
-              "font-size": "60px",
+              "font-size": "48px",
               "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "text-align": "center"
             },
             ".mbr-section-lead": {
               "color": "#ffffff",
@@ -383,60 +384,11 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "It's about the method...For ages, to address odours a fragrance is released which is stronger to mask the odours. Little do we know that by adopting this method we inhale both the odours and the fragrances. The whole purpose of staying away from odours is defeated. Not only that, each fragrance as we inhale finds it's way directly into our blood stream through inhalation. Now, if these fragrances are synthetic (which means they consist of a mixture of a variety of chemicals) then, that's our human body chemical consumption through inhalation by choice.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-q",
-          "_styles": {
-            "DIV": {
-              "font-family": "'Noto Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
-              "font-size": "16px"
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#2e2e2e",
-              "text-align": "center",
-              "font-size": "36px"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#ffffff",
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#ffffff"
-          },
-          "title": "TAMARA - Air Purifying Toss Bags<br>",
-          "meta": "We don't mask the odours. We actually 'adsorb' odours! 100% natural &amp; 0% fragrance!<br>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1"
-        },
-        {
-          "_params": {
             "showTitle": true,
             "showText": false,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "22",
+            "imageSize": "20",
             "paddingTop": 0,
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -456,7 +408,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/tossbag-new-894x1280.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20200909-100244-1400x2050.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -473,7 +425,7 @@
               "size": 0
             }
           },
-          "title": "<div><span style=\"font-weight: normal;\"><br></span></div><br><div><span style=\"font-weight: normal;\">Adopting 100% natural, 0% chemical and 0% fragrance based approach to managing odours.</span><br></div><div><span style=\"font-weight: normal;\">We use Air Purifying Grade Activated Carbon extracted from naturally available coconut shells. </span></div><div><span style=\"font-weight: normal;\">The odours in the environment get 'adsorbed' onto it, just like water into sponge.</span></div>",
+          "title": "<div><span style=\"font-weight: normal;\"><br></span></div><br><div><span style=\"font-weight: normal;\">It's about the method...For ages, to address odours a fragrance is released which is stronger to mask the odours. Little do we know that by adopting this method we inhale both the odours and the fragrances. The whole purpose of staying away from odours is defeated. Not only that, each fragrance as we inhale finds it's way directly into our blood stream through inhalation. Now, if these fragrances are synthetic (which means they consist of a mixture of a variety of chemicals) then, that's our human body chemical consumption through inhalation by choice.</span></div><br><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Adopting 100% natural, 0% chemical and 0% fragrance based approach to managing odours.&nbsp;</span><span style=\"font-weight: normal;\">We use Air Purifying grade Activated Carbon extracted from naturally available coconut shells.&nbsp;</span><span style=\"font-weight: normal;\">The odours in the environment get 'adsorbed' onto it, just like water into sponge.</span></div>",
           "text": "We don't mask the odours. We actually 'adsorb' odours! 100% natural &amp; 0% fragrance!\n<br>We use Air Purifying Grade Activated Carbon extracted from naturally available coconut shells. The odours in the environment get 'adsorbed' onto it, just like water into sponge. .",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -494,7 +446,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
             },
             "DIV": {
-              "font-size": "20px",
+              "font-size": "18px",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "text-align": "left"
@@ -592,7 +544,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#90a878",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -603,16 +555,16 @@
           },
           "title1": "Features",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Keeps odours away\n<br>Works 24x7 for 180 days",
+          "caption1": "Keeps living spaces odourless&nbsp;<br>Works 24x7<br>Lasts for 180 days",
           "title2": "Health",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Keeps you safe from fragrance related allergies\n<br>Reduces your synthetic chemical consumption foot print",
           "title3": "Convenience",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Unpack and place\n<br>Size 3 inches x 2 inches\n<br>Children safe, Pet friendly\n<br>Recharges itself",
+          "caption3": "Children safe <br>Pet friendly\n<br>Recharges itself",
           "title4": "Environment",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Back to earth after use<br>Non-electric, no battery required<br>",
+          "caption4": "Back to earth after use<br>Non-electric<br>Your next step for eco living",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -763,7 +715,7 @@
           "_tags": [
             "Theme"
           ],
-          "text": "Like us on facebook and get 5% off on your purchases",
+          "text": "Like us on facebook",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social btn-danger\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/tamaranaturals\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         ",
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-1b"
@@ -820,7 +772,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/newlogodesign2-128x79.png",
+              "src": "@PROJECT_PATH@/assets/images/tamara-128x30.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -865,7 +817,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Air Purifying Toss Bags</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"pricing.html#social-buttons4-1h\">BUY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"#bottom\">CALL: +91 9121 0187 12</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Deodorizing Charcoal Bags</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"pricing.html#social-buttons4-1h\">BUY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"#bottom\">CALL: +91 9121 0187 12</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -923,7 +875,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/newlogodesign2-207x128.png",
+              "src": "@PROJECT_PATH@/assets/images/tamara-545x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -1001,7 +953,7 @@
             "showTitle": true,
             "showSubtitle": true,
             "firstType": "",
-            "secondType": "hidden",
+            "secondType": "",
             "thirdType": "hidden",
             "fourthType": "",
             "paddingTop": "1",
@@ -1025,11 +977,11 @@
           "title1": "PERSONAL",
           "title2": "HOME",
           "title3": "COMMUNITY",
-          "title4": "BUSINESS",
+          "title4": "TRADE ENQUIRIES",
           "subtitle1": "BUY 1 'tamara' Bag<br>(bag lasts 6 months!)<br>",
           "subtitle2": "BUY 4 'tamara' Bags<br>(each bag lasts 6 months!)<br>",
           "subtitle3": "Order 20-50 Bags",
-          "subtitle4": "Order 50+ Bags",
+          "subtitle4": "Order 50+ Bags<br><br>",
           "label1": "HOT!",
           "label2": "HOT!",
           "label3": "HOT!",
@@ -1038,26 +990,26 @@
           "currency2": "Rs",
           "currency3": "Rs",
           "currency4": "",
-          "price1": "800",
-          "price2": "425",
+          "price1": "500",
+          "price2": "2000",
           "price3": "370",
           "price4": "Call Us",
-          "period1": "/bag<br>",
-          "period2": "/bag",
+          "period1": "/-<br>",
+          "period2": "/-",
           "period3": "/bag",
           "period4": "",
           "description1": "Use it as your travel companion, in your car or gym bag!<br><br>",
           "description2": "Ideal for a family, use in your car, refrigerator and bathrooms.<br>",
           "description3": "Benefit by being a group in a corporate or an apartment to order in one lot",
-          "description4": "Suitable for&nbsp;Bulk Orders/Trade Enquiries etc.",
+          "description4": "Suitable for Corporate Gifting, Bulk Orders, <br>Distributors, Resellers etc.<br>",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Delivery Charges Rs.50/-</li><li class=\"list-group-item\"><br></li></ul>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">You save Rs.75/- per bag &nbsp;</li><li class=\"list-group-item\">Delivery Charges Rs.50/-</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Delivery Charges Rs.50/-</li><li class=\"list-group-item\"><br></li></ul>",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">You save Rs.40/- per bag&nbsp;</li><li class=\"list-group-item\">Delivery Charges Nil</li></ul>",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Get our quote!</li><li class=\"list-group-item\"><br></li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Phone: 91210 18712</li><li class=\"list-group-item\">Email: tamarasales@bellnexx.com</li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"personalorder.html#form1-1l\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ORDER NOW</a>",
           "button2": "<a data-app-btn=\"true\" href=\"homeorder.html#form1-1k\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ORDER NOW</a>",
           "button3": "<a data-app-btn=\"true\" href=\"communityorder.html#form1-1m\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ORDER NOW</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"businessorder.html#form1-1n\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">SEND MESSAGE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"businessorder.html#form1-1n\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ENQUIRE NOW</a>",
           "_tags": [
             "Theme"
           ],

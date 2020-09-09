@@ -439,11 +439,11 @@ h6,
 
 
 
-
 #header1-0 .mbr-section-title {
   color: #ffffff;
-  font-size: 60px;
+  font-size: 48px;
   font-family: 'Open Sans', sans-serif;
+  text-align: center;
 }
 #header1-0 .mbr-section-lead {
   color: #ffffff;
@@ -460,23 +460,6 @@ h6,
   font-family: 'Open Sans', sans-serif;
   font-size: 20px;
 }
-#content2-q DIV {
-  font-family: 'Noto Sans', sans-serif;
-  font-size: 16px;
-}
-#header3-1 .mbr-section-title,
-#header3-1 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1 .mbr-section-title {
-  color: #2e2e2e;
-  text-align: center;
-  font-size: 36px;
-}
-#header3-1 .mbr-section-subtitle {
-  color: #ffffff;
-  text-align: center;
-}
 #msg-box5-14 P {
   text-align: left;
   color: #ffffff;
@@ -488,7 +471,7 @@ h6,
   font-family: 'Noto Sans', sans-serif;
 }
 #msg-box5-14 DIV {
-  font-size: 20px;
+  font-size: 18px;
   font-family: 'Montserrat', sans-serif;
   text-align: left;
 }
