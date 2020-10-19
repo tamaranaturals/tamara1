@@ -709,7 +709,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Deodorizing Charcoal Bags</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"pricing.html#social-buttons4-1h\">BUY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"#bottom\">CALL: +91 800 862 4267</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Deodorizing Charcoal Bags</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"pricing.html#top\">BUY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"#bottom\">CALL: +91 800 862 4267</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1206,7 +1206,7 @@
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"Feedback.html#form1-e\" data-toolbar=\"-mbrBtnMove\">Share your feedback</a> <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"pricing.html#social-buttons4-1h\" data-toolbar=\"-mbrBtnMove\">Pricing &amp; Orders</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"Feedback.html#form1-e\" data-toolbar=\"-mbrBtnMove\">Share your feedback</a> <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"pricing.html#top\" data-toolbar=\"-mbrBtnMove\">Pricing &amp; Orders</a>",
           "_tags": [
             "Theme"
           ],
@@ -1346,7 +1346,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Deodorizing Charcoal Bags</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"pricing.html#social-buttons4-1h\">BUY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"#bottom\">CALL: +91 800 862 4267</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Deodorizing Charcoal Bags</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"pricing.html#top\">BUY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"#bottom\">CALL: +91 800 862 4267</a></li>",
           "_tags": [
             "Theme"
           ],
