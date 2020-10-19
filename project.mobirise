@@ -497,7 +497,7 @@
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"Feedback.html#form1-e\" data-toolbar=\"-mbrBtnMove\">Share your feedback</a> <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"pricing.html#top\" data-toolbar=\"-mbrBtnMove\">Pricing &amp; Orders</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"Feedback.html#form1-e\" data-toolbar=\"-mbrBtnMove\">Share your feedback</a> <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"more.html\" data-toolbar=\"-mbrBtnMove\">Pricing &amp; Orders</a>",
           "_tags": [
             "Theme"
           ],
