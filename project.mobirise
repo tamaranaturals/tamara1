@@ -399,10 +399,10 @@
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Delivery Charges Rs.50/-</li><li class=\"list-group-item\"><br></li></ul>",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">You save Rs.40/- per bag&nbsp;</li><li class=\"list-group-item\">Delivery Charges Nil</li></ul>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Phone: 800 862 4267</li><li class=\"list-group-item\">Email: tamarasales@bellnexx.com</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"page8.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ORDER NOW</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page8.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ORDER NOW</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"Purchase.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ORDER NOW</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"Purchase.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ORDER NOW</a>",
           "button3": "<a data-app-btn=\"true\" href=\"communityorder.html#form1-1m\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ORDER NOW</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"page8.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ENQUIRE NOW</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"Purchase.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ENQUIRE NOW</a>",
           "_tags": [
             "Theme"
           ],
